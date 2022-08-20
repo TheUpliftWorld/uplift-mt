@@ -256,3 +256,6 @@
 [submodule "mods/itemframes"]
 	path = mods/itemframes
 	url = https://notabug.org/TenPlus1/itemframes.git
+[submodule "mods/uplift-custom-textures"]
+	path = mods/uplift-custom-textures
+	url = https://github.com/mightpossibly/uplift-custom-textures
