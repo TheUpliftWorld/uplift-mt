@@ -268,3 +268,6 @@
 [submodule "mods/bedrock_nextgen"]
 	path = mods/bedrock_nextgen
 	url = https://github.com/starninjas/nextgen_bedrock
+[submodule "mods/formspec_ast"]
+	path = mods/formspec_ast
+	url = https://gitlab.com/luk3yx/minetest-formspec_ast.git
