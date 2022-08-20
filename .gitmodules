@@ -1,3 +1,60 @@
 [submodule "mods/upmod"]
 	path = mods/upmod
 	url = https://github.com/mightpossibly/upmod
+[submodule "mods/3d_armor"]
+	path = mods/3d_armor
+	url = https://github.com/minetest-mods/3d_armor.git
+[submodule "mods/basic_materials"]
+	path = mods/basic_materials
+	url = https://github.com/mt-mods/basic_materials.git
+[submodule "mods/basic_signs"]
+	path = mods/basic_signs
+	url = https://github.com/mt-mods/basic_signs.git
+[submodule "mods/boost_cart"]
+	path = mods/boost_cart
+	url = https://github.com/SmallJoker/boost_cart.git
+[submodule "mods/charcoal"]
+	path = mods/charcoal
+	url = https://github.com/pandorabox-io/charcoal.git
+[submodule "mods/farming"]
+	path = mods/farming
+	url = https://github.com/minetest-mirrors/farming.git
+[submodule "mods/illumination"]
+	path = mods/illumination
+	url = https://github.com/mt-mods/illumination
+[submodule "mods/inspector"]
+	path = mods/inspector
+	url = https://github.com/minetest-mods/inspector.git
+[submodule "mods/mesecons"]
+	path = mods/mesecons
+	url = https://github.com/minetest-mods/mesecons.git
+[submodule "mods/mobs_redo"]
+	path = mods/mobs_redo
+	url = https://github.com/minetest-mirrors/mobs_redo.git
+[submodule "mods/mobs_animal"]
+	path = mods/mobs_animal
+	url = https://github.com/minetest-mirrors/mobs_animal.git
+[submodule "mods/mobs_monster"]
+	path = mods/mobs_monster
+	url = https://github.com/minetest-mirrors/mobs_monster.git
+[submodule "mods/mobs_water"]
+	path = mods/mobs_water
+	url = https://github.com/minetest-mirrors/mobs_water.git
+[submodule "mods/mobs_horse"]
+	path = mods/mobs_horse
+	url = https://github.com/minetest-mirrors/mob_horse.git
+[submodule "mods/moreblocks"]
+	path = mods/moreblocks
+	url = https://github.com/minetest-mods/moreblocks.git
+[submodule "mods/morelights"]
+	path = mods/morelights
+	url = https://github.com/random-geek/morelights.git
+[submodule "mods/obsidianstuff"]
+	path = mods/obsidianstuff
+	url = https://github.com/OgelGames/obsidianstuff
+[submodule "mods/signs_lib"]
+	path = mods/signs_lib
+	url = https://github.com/mt-mods/signs_lib.git
+[submodule "mods/travelnet"]
+	path = mods/travelnet
+	url = https://github.com/mt-mods/travelnet.git
