@@ -58,3 +58,66 @@
 [submodule "mods/travelnet"]
 	path = mods/travelnet
 	url = https://github.com/mt-mods/travelnet.git
+[submodule "mods/ambience"]
+	path = mods/ambience
+	url = https://github.com/minetest-mirrors/ambience.git
+[submodule "mods/anvil"]
+	path = mods/anvil
+	url = https://github.com/minetest-mods/anvil.git
+[submodule "mods/areas"]
+	path = mods/areas
+	url = https://github.com/minetest-mods/areas.git
+[submodule "mods/auth_cache"]
+	path = mods/auth_cache
+	url = https://github.com/minetest-monitoring/auth_cache.git
+[submodule "mods/auth_proxy_mod"]
+	path = mods/auth_proxy_mod
+	url = https://github.com/minetest-auth-proxy/auth_proxy_mod
+[submodule "mods/biome_lib"]
+	path = mods/biome_lib
+	url = https://github.com/mt-mods/biome_lib.git
+[submodule "mods/drawers"]
+	path = mods/drawers
+	url = https://github.com/minetest-mods/drawers.git
+[submodule "mods/falling_item"]
+	path = mods/falling_item
+	url = https://github.com/minetest-mirrors/falling_item
+[submodule "mods/farming_nextgen"]
+	path = mods/farming_nextgen
+	url = https://github.com/berengma/farming_nextgen.git
+[submodule "mods/find_nodes_in_area_cache"]
+	path = mods/find_nodes_in_area_cache
+	url = https://github.com/BuckarooBanzay/find_nodes_in_area_cache.git
+[submodule "mods/geoip"]
+	path = mods/geoip
+	url = https://github.com/mt-mods/geoip.git
+[submodule "mods/mapserver"]
+	path = mods/mapserver
+	url = https://github.com/minetest-mapserver/mapserver_mod.git
+[submodule "mods/mesecons_ratelimiter"]
+	path = mods/mesecons_ratelimiter
+	url = https://github.com/minetest-monitoring/mesecons_ratelimiter
+[submodule "mods/mobs_npc"]
+	path = mods/mobs_npc
+	url = https://github.com/pandorabox-io/mobs_npc.git
+[submodule "mods/monitoring"]
+	path = mods/monitoring
+	url = https://github.com/minetest-monitoring/monitoring.git
+[submodule "mods/moreores"]
+	path = mods/moreores
+	url = https://github.com/minetest-mods/moreores.git
+[submodule "mods/protector"]
+	path = mods/protector
+	url = https://github.com/mt-mods/protector.git
+[submodule "mods/server_news"]
+	path = mods/server_news
+	url = https://github.com/pandorabox-io/server_news
+[submodule "mods/unifieddyes"]
+	path = mods/unifieddyes
+	url = https://github.com/mt-mods/unifieddyes.git
+[submodule "mods/WorldEdit"]
+	path = mods/WorldEdit
+	url = https://github.com/Uberi/Minetest-WorldEdit.git
+[submodule "mods/xp_redo"]
+	path = mods/xp_redo
+	url = https://github.com/mt-mods/xp_redo.git
