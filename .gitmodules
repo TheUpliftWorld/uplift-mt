@@ -1,0 +1,3 @@
+[submodule "mods/upmod"]
+	path = mods/upmod
+	url = https://github.com/mightpossibly/upmod
