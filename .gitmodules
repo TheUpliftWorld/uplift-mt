@@ -262,3 +262,9 @@
 [submodule "mods/staffchan"]
 	path = mods/staffchan
 	url = https://gitlab.com/xenonca/staffchan.git
+[submodule "mods/hopper"]
+	path = mods/hopper
+	url = https://notabug.org/TenPlus1/hopper.git
+[submodule "mods/bedrock_nextgen"]
+	path = mods/bedrock_nextgen
+	url = https://github.com/starninjas/nextgen_bedrock
