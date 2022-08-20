@@ -121,3 +121,138 @@
 [submodule "mods/xp_redo"]
 	path = mods/xp_redo
 	url = https://github.com/mt-mods/xp_redo.git
+[submodule "mods/abriglass"]
+	path = mods/abriglass
+	url = https://github.com/Ezhh/abriglass
+[submodule "mods/abripanes"]
+	path = mods/abripanes
+	url = https://github.com/Ezhh/abripanes
+[submodule "mods/appliances"]
+	path = mods/appliances
+	url = https://github.com/sfence/appliances
+[submodule "mods/spectator_mode"]
+	path = mods/spectator_mode
+	url = https://github.com/minetest-mods/spectator_mode
+[submodule "mods/afkkick"]
+	path = mods/afkkick
+	url = https://github.com/GunshipPenguin/afkkick
+[submodule "mods/cleaner"]
+	path = mods/cleaner
+	url = https://github.com/AntumMT/mod-cleaner
+[submodule "mods/serveressentials"]
+	path = mods/serveressentials
+	url = https://github.com/GunshipPenguin/serveressentials
+[submodule "mods/banners"]
+	path = mods/banners
+	url = https://github.com/pandorabox-io/banners
+[submodule "mods/auroras"]
+	path = mods/auroras
+	url = https://github.com/random-geek/auroras
+[submodule "mods/bed_jumping"]
+	path = mods/bed_jumping
+	url = https://github.com/playduin/bed_jumping
+[submodule "mods/ethereal"]
+	path = mods/ethereal
+	url = https://notabug.org/tenplus1/ethereal
+[submodule "mods/bows"]
+	path = mods/bows
+	url = https://notabug.org/TenPlus1/bows
+[submodule "mods/carpets"]
+	path = mods/carpets
+	url = https://github.com/minetest-mods/carpets
+[submodule "mods/skinsdb"]
+	path = mods/skinsdb
+	url = https://github.com/minetest-mods/skinsdb
+[submodule "mods/flowerpot"]
+	path = mods/flowerpot
+	url = https://github.com/minetest-mods/flowerpot
+[submodule "mods/nether"]
+	path = mods/nether
+	url = https://github.com/minetest-mods/nether
+[submodule "mods/commoditymarket"]
+	path = mods/commoditymarket
+	url = https://github.com/minetest-mods/commoditymarket
+[submodule "mods/stamina"]
+	path = mods/stamina
+	url = https://github.com/minetest-mods/stamina
+[submodule "mods/item_drop"]
+	path = mods/item_drop
+	url = https://github.com/minetest-mods/item_drop
+[submodule "mods/bulletin_boards"]
+	path = mods/bulletin_boards
+	url = https://github.com/minetest-mods/bulletin_boards
+[submodule "mods/craftguide"]
+	path = mods/craftguide
+	url = https://github.com/minetest-mods/craftguide
+[submodule "mods/quartz"]
+	path = mods/quartz
+	url = https://github.com/minetest-mods/quartz
+[submodule "mods/lapis"]
+	path = mods/lapis
+	url = https://github.com/minetest-mods/lapis
+[submodule "mods/crops"]
+	path = mods/crops
+	url = https://github.com/minetest-mods/crops
+[submodule "mods/cartographer"]
+	path = mods/cartographer
+	url = https://gitlab.com/Df458/cartographer.git
+[submodule "mods/cartographer-mtg"]
+	path = mods/cartographer-mtg
+	url = https://gitlab.com/Df458/cartographer-mtg.git
+[submodule "mods/climatez"]
+	path = mods/climatez
+	url = https://github.com/runsy/climatez
+[submodule "mods/connected_chests"]
+	path = mods/connected_chests
+	url = https://github.com/HybridDog/connected_chests
+[submodule "mods/craft_table"]
+	path = mods/craft_table
+	url = https://github.com/BrunoMine/craft_table
+[submodule "mods/hardenedclay"]
+	path = mods/hardenedclay
+	url = https://github.com/oOChainLynxOo/hardenedclay
+[submodule "mods/inventorybags"]
+	path = mods/inventorybags
+	url = https://github.com/cx384/inventorybags
+[submodule "mods/sfinv"]
+	path = mods/sfinv
+	url = https://github.com/rubenwardy/sfinv
+[submodule "mods/sfinv_bags"]
+	path = mods/sfinv_bags
+	url = https://notabug.org/TenPlus1/sfinv_bags.git
+[submodule "mods/minecart"]
+	path = mods/minecart
+	url = https://github.com/joe7575/minecart
+[submodule "mods/moretrees"]
+	path = mods/moretrees
+	url = https://github.com/mt-mods/moretrees
+[submodule "mods/xocean"]
+	path = mods/xocean
+	url = https://github.com/starninjas/xocean
+[submodule "mods/plantlife"]
+	path = mods/plantlife
+	url = https://github.com/mt-mods/plantlife_modpack
+[submodule "mods/sponge"]
+	path = mods/sponge
+	url = https://github.com/BenjieFiftysix/sponge
+[submodule "mods/player_monoids"]
+	path = mods/player_monoids
+	url = https://github.com/minetest-mods/player_monoids
+[submodule "mods/pie"]
+	path = mods/pie
+	url = https://notabug.org/TenPlus1/pie.git
+[submodule "mods/void_chest"]
+	path = mods/void_chest
+	url = https://notabug.org/MeseCraft/void_chest.git
+[submodule "mods/wield3d"]
+	path = mods/wield3d
+	url = https://github.com/stujones11/wield3d
+[submodule "mods/playerlist"]
+	path = mods/playerlist
+	url = https://github.com/EliasFleckenstein03/playerlist
+[submodule "mods/awards"]
+	path = mods/awards
+	url = https://gitlab.com/rubenwardy/awards.git
+[submodule "mods/itemframes"]
+	path = mods/itemframes
+	url = https://notabug.org/TenPlus1/itemframes.git
