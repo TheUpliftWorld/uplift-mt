@@ -271,3 +271,6 @@
 [submodule "mods/formspec_ast"]
 	path = mods/formspec_ast
 	url = https://gitlab.com/luk3yx/minetest-formspec_ast.git
+[submodule "mods/qos"]
+	path = mods/qos
+	url = https://github.com/S-S-X/qos
