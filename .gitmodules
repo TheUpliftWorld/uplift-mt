@@ -274,3 +274,6 @@
 [submodule "mods/qos"]
 	path = mods/qos
 	url = https://github.com/S-S-X/qos
+[submodule "mods/personal_log"]
+	path = mods/personal_log
+	url = https://github.com/minetest-mods/personal_log
