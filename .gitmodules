@@ -229,8 +229,8 @@
 [submodule "mods/xocean"]
 	path = mods/xocean
 	url = https://github.com/starninjas/xocean
-[submodule "mods/plantlife"]
-	path = mods/plantlife
+[submodule "mods/plantlife_modpack"]
+	path = mods/plantlife_modpack
 	url = https://github.com/mt-mods/plantlife_modpack
 [submodule "mods/sponge"]
 	path = mods/sponge
