@@ -4,7 +4,7 @@ uplift = {}
 local MP = minetest.get_modpath("uplift_custom")
 
 -- anticheat stuff
-dofile(MP .. "/anticheat/inv_move.lua")
+dofile(MP .. "/anti-cheat/inv_move.lua")
 
 -- prejoin log
 dofile(MP.."/prejoin.lua")

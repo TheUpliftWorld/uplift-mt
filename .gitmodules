@@ -283,3 +283,6 @@
 [submodule "uplift-custom-textures"]
 	path = uplift-custom-textures
 	url = https://github.com/mightpossibly/uplift-custom-textures
+[submodule "mods/controls"]
+	path = mods/controls
+	url = https://github.com/mt-mods/controls
