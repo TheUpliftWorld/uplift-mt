@@ -15,6 +15,9 @@ dofile(MP.."/fix_dead_on_login.lua")
 -- various privileges
 dofile(MP.."/privs/common.lua")
 
+-- fix unknown blocks
+dofile(MP.."/alias.lua")
+
 -- item/nodes stats
 dofile(MP.."/stats.lua")
 

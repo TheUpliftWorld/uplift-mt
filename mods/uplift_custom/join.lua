@@ -16,6 +16,11 @@ minetest.register_on_joinplayer(function(player)
         privs_changed = true
     end
 
+    if not privs.fast then
+          privs.fast = true
+          privs_changed = true
+    end
+
     -- revoke settime from non-admins
     if not privs.privs and privs.settime then
         privs["settime"] = nil

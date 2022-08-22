@@ -286,3 +286,6 @@
 [submodule "mods/controls"]
 	path = mods/controls
 	url = https://github.com/mt-mods/controls
+[submodule "mods/beds"]
+	path = mods/beds
+	url = https://notabug.org/TenPlus1/beds.git
