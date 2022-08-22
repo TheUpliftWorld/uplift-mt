@@ -15,6 +15,19 @@ minetest.register_on_joinplayer(function(player)
         privs.home = true
         privs_changed = true
     end
+ 
+    if not privs.shout then
+        privs.shout = true
+        privs_changed = true
+    end
+    if not privs.interact then
+        privs.interact = true
+        privs_changed = true
+    end
+    if not privs.build then
+        privs.build = true
+        privs_changed = true
+    end    
 
     if not privs.fast then
           privs.fast = true
