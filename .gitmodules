@@ -301,3 +301,6 @@
 [submodule "mods/nssm"]
 	path = mods/nssm
 	url = https://notabug.org/TenPlus1/nssm.git
+[submodule "mods/crafting"]
+	path = mods/crafting
+	url = https://github.com/Qwertymine/crafting.git
