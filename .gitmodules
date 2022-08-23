@@ -295,3 +295,6 @@
 [submodule "mods/smartshop"]
 	path = mods/smartshop
 	url = https://github.com/AiTechEye/smartshop.git
+[submodule "mods/skeletons"]
+	path = mods/skeletons
+	url = https://codeberg.org/Hamlet/mobs_skeletons.git
