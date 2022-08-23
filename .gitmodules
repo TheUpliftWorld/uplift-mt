@@ -292,3 +292,6 @@
 [submodule "mods/televator"]
 	path = mods/televator
 	url = https://github.com/NoctisLabs/an_televator.git
+[submodule "mods/smartshop"]
+	path = mods/smartshop
+	url = https://github.com/AiTechEye/smartshop.git
