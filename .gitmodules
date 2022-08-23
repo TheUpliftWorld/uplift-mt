@@ -289,3 +289,6 @@
 [submodule "mods/beds"]
 	path = mods/beds
 	url = https://notabug.org/TenPlus1/beds.git
+[submodule "mods/televator"]
+	path = mods/televator
+	url = https://github.com/NoctisLabs/an_televator.git
