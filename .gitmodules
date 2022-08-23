@@ -298,3 +298,6 @@
 [submodule "mods/skeletons"]
 	path = mods/skeletons
 	url = https://codeberg.org/Hamlet/mobs_skeletons.git
+[submodule "mods/nssm"]
+	path = mods/nssm
+	url = https://notabug.org/TenPlus1/nssm.git
