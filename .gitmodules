@@ -172,9 +172,6 @@
 [submodule "mods/commoditymarket"]
 	path = mods/commoditymarket
 	url = https://github.com/minetest-mods/commoditymarket
-[submodule "mods/stamina"]
-	path = mods/stamina
-	url = https://github.com/minetest-mods/stamina
 [submodule "mods/item_drop"]
 	path = mods/item_drop
 	url = https://github.com/minetest-mods/item_drop
@@ -205,9 +202,6 @@
 [submodule "mods/connected_chests"]
 	path = mods/connected_chests
 	url = https://github.com/HybridDog/connected_chests
-[submodule "mods/craft_table"]
-	path = mods/craft_table
-	url = https://github.com/BrunoMine/craft_table
 [submodule "mods/hardenedclay"]
 	path = mods/hardenedclay
 	url = https://github.com/oOChainLynxOo/hardenedclay
@@ -307,3 +301,12 @@
 [submodule "mods/unified_inventory"]
 	path = mods/unified_inventory
 	url = https://github.com/minetest-mods/unified_inventory.git
+[submodule "mods/hbhuner"]
+	path = mods/hbhuner
+	url = https://codeberg.org/Wuzzy/minetest_hbhunger.git
+[submodule "mods/hbarmor"]
+	path = mods/hbarmor
+	url = https://codeberg.org/Wuzzy/minetest_hbarmor.git
+[submodule "mods/hudbars"]
+	path = mods/hudbars
+	url = https://codeberg.org/Wuzzy/minetest_hudbars.git
