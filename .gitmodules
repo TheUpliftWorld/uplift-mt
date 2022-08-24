@@ -304,3 +304,6 @@
 [submodule "mods/crafting"]
 	path = mods/crafting
 	url = https://github.com/Qwertymine/crafting.git
+[submodule "mods/unified_inventory"]
+	path = mods/unified_inventory
+	url = https://github.com/minetest-mods/unified_inventory.git
