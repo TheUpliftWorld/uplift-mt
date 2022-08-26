@@ -15,6 +15,9 @@ dofile(MP.."/fix_dead_on_login.lua")
 -- various privileges
 dofile(MP.."/privs/common.lua")
 
+-- load invisible blocks
+dofile(MP.."/invisible_block.lua")
+
 -- fix unknown blocks
 dofile(MP.."/alias.lua")
 
