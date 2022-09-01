@@ -310,3 +310,6 @@
 [submodule "mods/hudbars"]
 	path = mods/hudbars
 	url = https://codeberg.org/Wuzzy/minetest_hudbars.git
+[submodule "mods/beautiflowers"]
+	path = mods/beautiflowers
+	url = https://github.com/minefaco/beautiflowers
