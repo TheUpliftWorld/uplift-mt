@@ -103,9 +103,6 @@
 [submodule "mods/monitoring"]
 	path = mods/monitoring
 	url = https://github.com/minetest-monitoring/monitoring.git
-[submodule "mods/moreores"]
-	path = mods/moreores
-	url = https://github.com/minetest-mods/moreores.git
 [submodule "mods/protector"]
 	path = mods/protector
 	url = https://github.com/mt-mods/protector.git
@@ -322,3 +319,6 @@
 [submodule "mods/bonemeal"]
 	path = mods/bonemeal
 	url = https://notabug.org/TenPlus1/bonemeal.git
+[submodule "mods/stripped_tree"]
+	path = mods/stripped_tree
+	url = https://github.com/minefaco/stripped_tree.git
