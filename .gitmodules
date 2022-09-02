@@ -319,3 +319,9 @@
 [submodule "mods/xp_redo_ranks_ores"]
 	path = mods/xp_redo_ranks_ores
 	url = https://github.com/mt-mods/xp_redo_ranks_ores.git
+[submodule "mods/mobs_skeletons"]
+	path = mods/mobs_skeletons
+	url = https://codeberg.org/Hamlet/mobs_skeletons.git
+[submodule "mods/bonemeal"]
+	path = mods/bonemeal
+	url = https://notabug.org/TenPlus1/bonemeal.git
