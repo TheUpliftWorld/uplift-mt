@@ -217,6 +217,9 @@
 [submodule "mods/moretrees"]
 	path = mods/moretrees
 	url = https://github.com/mt-mods/moretrees
+[submodule "mods/moreores"]
+    path = mods/moreores
+    url = https://github.com/minetest-mods/moreores.git
 [submodule "mods/xocean"]
 	path = mods/xocean
 	url = https://github.com/starninjas/xocean
