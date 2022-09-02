@@ -313,3 +313,9 @@
 [submodule "mods/beautiflowers"]
 	path = mods/beautiflowers
 	url = https://github.com/minefaco/beautiflowers
+[submodule "mods/mod-listitems"]
+	path = mods/mod-listitems
+	url = https://github.com/AntumMT/mod-listitems.git
+[submodule "mods/xp_redo_ranks_ores"]
+	path = mods/xp_redo_ranks_ores
+	url = https://github.com/mt-mods/xp_redo_ranks_ores.git
