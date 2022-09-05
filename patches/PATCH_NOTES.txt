@@ -1,0 +1,39 @@
+fix Nil = nil in bed_jumping mod init.lua
+AFKCHECK=false in settings file for serveressentials ( conflicts with afkkick mod )
+
+---------------------------------------------------------------
+
+changed monitoring/globalstep.lua threshold from 75ms to 300ms
+
+---------------------------------------------------------------
+
+changed mods/nssm/nssm_materials.lua
+minetest.register_node("nssm:thick_web", {
+        description = "Thick Web",
+        inventory_image = "thick_web.png",
+        tiles = {"thick_web.png"} ,
+        drawtype = "plantlike",
+        paramtype = "light",
+        walkable = false,
+        pointable = true,
+        diggable = true,
+        buildable_to = false,
+        drop = "",
+        drowning = 2,
+        liquid_renewable = false,
+        liquidtype = "source",
+        liquid_range= 0,
+        liquid_alternative_flowing = "nssm:thick_web",
+        liquid_alternative_source = "nssm:thick_web",
+        liquid_viscosity = 30,
+        groups = {flammable=2, snappy=1, liquid=1},
+})
+
+----------------------------------------------------------------------
+mapgen_limit parameter needs to also change in map_meta.txt otherwise nether doesnt mapgen
+----------------------------------------------------------------------
+mapgen_limit = 3100
+nether.DEPTH_CEILING              =  -2000 -- The y location of the Nether's celing
+nether.DEPTH_FLOOR                =  -3000 -- The y location of the Nether's floor
+mobs y-MIN increased from -31000 to -3100
+
