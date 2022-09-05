@@ -289,9 +289,6 @@
 [submodule "mods/smartshop"]
 	path = mods/smartshop
 	url = https://github.com/AiTechEye/smartshop.git
-[submodule "mods/nssm"]
-	path = mods/nssm
-	url = https://notabug.org/TenPlus1/nssm.git
 [submodule "mods/crafting"]
 	path = mods/crafting
 	url = https://github.com/Qwertymine/crafting.git
