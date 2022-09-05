@@ -35,5 +35,7 @@ mapgen_limit parameter needs to also change in map_meta.txt otherwise nether doe
 mapgen_limit = 3100
 nether.DEPTH_CEILING              =  -2000 -- The y location of the Nether's celing
 nether.DEPTH_FLOOR                =  -3000 -- The y location of the Nether's floor
-mobs y-MIN increased from -31000 to -3100
-
+mobs y-MIN increased from -31000 to -2500
+-----------------------------------------------------------------------
+disabled overhead icons on xp_redo
+xp.disable_hover_entity=true
