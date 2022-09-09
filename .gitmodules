@@ -322,3 +322,6 @@
 [submodule "mods/stripped_tree"]
 	path = mods/stripped_tree
 	url = https://github.com/minefaco/stripped_tree.git
+[submodule "mods/death_messages"]
+	path = mods/death_messages
+	url = https://github.com/4Evergreen4/death_messages.git
