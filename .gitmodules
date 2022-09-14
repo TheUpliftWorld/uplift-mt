@@ -325,6 +325,3 @@
 [submodule "mods/death_messages"]
 	path = mods/death_messages
 	url = https://github.com/4Evergreen4/death_messages.git
-[submodule "mods/chat_highlights"]
-	path = mods/chat_highlights
-	url = https://github.com/fluxionary/minetest-chat_highlights.git
