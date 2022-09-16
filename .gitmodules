@@ -325,3 +325,6 @@
 [submodule "mods/death_messages"]
 	path = mods/death_messages
 	url = https://github.com/4Evergreen4/death_messages.git
+[submodule "mods/mtinfo"]
+	path = mods/mtinfo
+	url = https://github.com/fluxionary/minetest-mtinfo.git
