@@ -1,6 +1,4 @@
 
-local S = mobs.intllib_animal
-
 mobs:register_mob("uplift_custom:banzai", {
 stepheight = 0.6,
 	type = "animal",
