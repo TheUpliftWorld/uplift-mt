@@ -43,7 +43,8 @@ if minetest.global_exists("stamina") then
     dofile(MP.."/exhaust.lua")
 end
 
-
+-- load custom mobs
+dofile(MP.."/banzai.lua")
 
 
 
