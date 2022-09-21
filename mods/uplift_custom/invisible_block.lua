@@ -19,6 +19,7 @@ minetest.register_node("uplift_custom:invisible_light_block", {
 })
 
 minetest.register_craft({
+    type = "shaped",
     output = "uplift_custom:invisible_light_block",
     recipe = {
       {"","",""},
