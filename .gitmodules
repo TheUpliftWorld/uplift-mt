@@ -328,3 +328,9 @@
 [submodule "mods/mtinfo"]
 	path = mods/mtinfo
 	url = https://github.com/fluxionary/minetest-mtinfo.git
+[submodule "mods/backedclay"]
+	path = mods/backedclay
+	url = https://notabug.org/TenPlus1/bakedclay.git
+[submodule "mods/scaffolding"]
+	path = mods/scaffolding
+	url = https://bitbucket.org/Infinatum/scaffolding.git
