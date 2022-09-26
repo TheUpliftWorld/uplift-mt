@@ -49,5 +49,9 @@ dofile(MP.."/banzai.lua")
 -- load memos
 dofile(MP.."/memos.lua")
 
+-- load name restrictions
+dofile(MP.."/name_restrictions.lua")
 
+-- lets hide /mods
+minetest.unregister_chatcommand("mods")
 
