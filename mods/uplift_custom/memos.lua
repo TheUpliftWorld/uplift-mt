@@ -59,7 +59,7 @@ minetest.register_chatcommand("memosend", {
 			minetest.chat_send_player(name, "Invalid usage, see /help memosend.")
 			return
 		end
-		if not minetest.auth_table[toname] then
+		if not minetest.player_exists(toname) then
 			minetest.chat_send_player(name, "Player does not exist.")
 			return
 		end
