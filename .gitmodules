@@ -337,3 +337,6 @@
 [submodule "mods/xban2"]
 	path = mods/xban2
 	url = https://git.bananach.space/xban2.git
+[submodule "mods/memo"]
+	path = mods/memo
+	url = https://github.com/ShadowNinja/memo.git

@@ -46,5 +46,8 @@ end
 -- load custom mobs
 dofile(MP.."/banzai.lua")
 
+-- load memos
+dofile(MP.."/memos.lua")
+
 
 
