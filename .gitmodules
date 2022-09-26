@@ -334,3 +334,9 @@
 [submodule "mods/scaffolding"]
 	path = mods/scaffolding
 	url = https://bitbucket.org/Infinatum/scaffolding.git
+[submodule "mods/xban2"]
+	path = mods/xban2
+	url = https://git.bananach.space/xban2.git
+[submodule "mods/banish"]
+	path = mods/banish
+	url = https://git.bananach.space/banish.git
