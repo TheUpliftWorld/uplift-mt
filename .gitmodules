@@ -340,3 +340,6 @@
 [submodule "mods/spill_removal"]
 	path = mods/spill_removal
 	url = https://github.com/pandorabox-io/spill_removal.git
+[submodule "mods/beerchat"]
+	path = mods/beerchat
+	url = https://github.com/mt-mods/beerchat.git
