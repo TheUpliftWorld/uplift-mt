@@ -343,3 +343,6 @@
 [submodule "mods/beerchat"]
 	path = mods/beerchat
 	url = https://github.com/mt-mods/beerchat.git
+[submodule "mods/wiki"]
+	path = mods/wiki
+	url = https://github.com/minetest-mods/wiki.git
