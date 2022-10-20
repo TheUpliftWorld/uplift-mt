@@ -346,3 +346,9 @@
 [submodule "mods/wiki"]
 	path = mods/wiki
 	url = https://github.com/minetest-mods/wiki.git
+[submodule "mods/formspecs"]
+	path = mods/formspecs
+	url = https://bitbucket.org/sorcerykid/formspecs.git
+[submodule "mods/finder"]
+	path = mods/finder
+	url = https://bitbucket.org/sorcerykid/finder.git
