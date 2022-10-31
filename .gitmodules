@@ -352,3 +352,6 @@
 [submodule "mods/finder"]
 	path = mods/finder
 	url = https://bitbucket.org/sorcerykid/finder.git
+[submodule "mods/unified_inventory_plus"]
+	path = mods/unified_inventory_plus
+	url = https://github.com/bousket/unified_inventory_plus.git
