@@ -265,9 +265,6 @@
 [submodule "mods/personal_log"]
 	path = mods/personal_log
 	url = https://github.com/minetest-mods/personal_log
-[submodule "mods/colored_concrete"]
-	path = mods/colored_concrete
-	url = https://github.com/Niklp09/colored_concrete
 [submodule "mods/fireworkz"]
 	path = mods/fireworkz
 	url = https://github.com/runsy/fireworkz
