@@ -352,3 +352,9 @@
 [submodule "mods/unified_inventory_plus"]
 	path = mods/unified_inventory_plus
 	url = https://github.com/bousket/unified_inventory_plus.git
+[submodule "mods/abriglass"]
+	path = mods/abriglass
+	url = https://github.com/mightpossibly/abriglass.git
+[submodule "mods/dye"]
+	path = mods/dye
+	url = https://github.com/mightpossibly/dye.git
