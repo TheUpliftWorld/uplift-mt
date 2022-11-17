@@ -43,9 +43,6 @@
 [submodule "mods/mobs_horse"]
 	path = mods/mobs_horse
 	url = https://github.com/minetest-mirrors/mob_horse.git
-[submodule "mods/moreblocks"]
-	path = mods/moreblocks
-	url = https://github.com/minetest-mods/moreblocks.git
 [submodule "mods/morelights"]
 	path = mods/morelights
 	url = https://github.com/random-geek/morelights.git
