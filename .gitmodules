@@ -352,3 +352,6 @@
 [submodule "mods/dye"]
 	path = mods/dye
 	url = https://github.com/mightpossibly/dye.git
+[submodule "mods/moreblocks"]
+	path = mods/moreblocks
+	url = https://github.com/mightpossibly/moreblocks.git
