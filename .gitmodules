@@ -67,9 +67,6 @@
 [submodule "mods/auth_cache"]
 	path = mods/auth_cache
 	url = https://github.com/minetest-monitoring/auth_cache.git
-[submodule "mods/auth_proxy_mod"]
-	path = mods/auth_proxy_mod
-	url = https://github.com/minetest-auth-proxy/auth_proxy_mod
 [submodule "mods/biome_lib"]
 	path = mods/biome_lib
 	url = https://github.com/mt-mods/biome_lib.git
