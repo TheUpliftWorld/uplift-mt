@@ -190,9 +190,6 @@
 [submodule "mods/connected_chests"]
 	path = mods/connected_chests
 	url = https://github.com/HybridDog/connected_chests
-[submodule "mods/hardenedclay"]
-	path = mods/hardenedclay
-	url = https://github.com/oOChainLynxOo/hardenedclay
 [submodule "mods/inventorybags"]
 	path = mods/inventorybags
 	url = https://github.com/cx384/inventorybags
