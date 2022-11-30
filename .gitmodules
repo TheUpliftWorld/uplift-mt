@@ -349,3 +349,6 @@
 [submodule "mods/moreblocks"]
 	path = mods/moreblocks
 	url = https://github.com/mightpossibly/moreblocks.git
+[submodule "mods/hot_air_balloons"]
+	path = mods/hot_air_balloons
+	url = https://github.com/BlockySurvival/hot_air_balloons.git
