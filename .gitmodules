@@ -199,9 +199,6 @@
 [submodule "mods/sfinv_bags"]
 	path = mods/sfinv_bags
 	url = https://notabug.org/TenPlus1/sfinv_bags.git
-[submodule "mods/minecart"]
-	path = mods/minecart
-	url = https://github.com/joe7575/minecart
 [submodule "mods/moretrees"]
 	path = mods/moretrees
 	url = https://github.com/mt-mods/moretrees
