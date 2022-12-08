@@ -349,3 +349,6 @@
 [submodule "mods/hot_air_balloons"]
 	path = mods/hot_air_balloons
 	url = https://github.com/BlockySurvival/hot_air_balloons.git
+[submodule "mods/christmas"]
+	path = mods/christmas
+	url = https://github.com/Extex101/christmas.git
