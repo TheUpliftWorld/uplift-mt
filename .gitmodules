@@ -349,3 +349,6 @@
 [submodule "mods/christmas"]
 	path = mods/christmas
 	url = https://github.com/Extex101/christmas.git
+[submodule "mods/void_chest"]
+	path = mods/void_chest
+	url = https://github.com/MeseCraft/void_chest.git
