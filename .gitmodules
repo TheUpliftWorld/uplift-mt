@@ -220,9 +220,6 @@
 [submodule "mods/pie"]
 	path = mods/pie
 	url = https://notabug.org/TenPlus1/pie.git
-[submodule "mods/void_chest"]
-	path = mods/void_chest
-	url = https://notabug.org/MeseCraft/void_chest.git
 [submodule "mods/wield3d"]
 	path = mods/wield3d
 	url = https://github.com/stujones11/wield3d
