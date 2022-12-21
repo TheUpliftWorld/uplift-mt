@@ -352,3 +352,6 @@
 [submodule "mods/void_chest"]
 	path = mods/void_chest
 	url = https://github.com/MeseCraft/void_chest.git
+[submodule "mods/doors"]
+	path = mods/doors
+	url = https://notabug.org/TenPlus1/doors.git
