@@ -352,3 +352,9 @@
 [submodule "mods/void_chest"]
 	path = mods/void_chest
 	url = https://github.com/MeseCraft/void_chest.git
+[submodule "mods/monitoring_mesecons"]
+	path = mods/monitoring_mesecons
+	url = https://github.com/minetest-monitoring/monitoring_mesecons.git
+[submodule "mods/metadata_cache"]
+	path = mods/metadata_cache
+	url = https://github.com/minetest-monitoring/metadata_cache.git
