@@ -61,12 +61,6 @@
 [submodule "mods/anvil"]
 	path = mods/anvil
 	url = https://github.com/minetest-mods/anvil.git
-[submodule "mods/areas"]
-	path = mods/areas
-	url = https://github.com/minetest-mods/areas.git
-[submodule "mods/auth_cache"]
-	path = mods/auth_cache
-	url = https://github.com/minetest-monitoring/auth_cache.git
 [submodule "mods/biome_lib"]
 	path = mods/biome_lib
 	url = https://github.com/mt-mods/biome_lib.git
@@ -136,9 +130,6 @@
 [submodule "mods/auroras"]
 	path = mods/auroras
 	url = https://github.com/random-geek/auroras
-[submodule "mods/bed_jumping"]
-	path = mods/bed_jumping
-	url = https://github.com/playduin/bed_jumping
 [submodule "mods/ethereal"]
 	path = mods/ethereal
 	url = https://notabug.org/tenplus1/ethereal
@@ -175,9 +166,6 @@
 [submodule "mods/lapis"]
 	path = mods/lapis
 	url = https://github.com/minetest-mods/lapis
-[submodule "mods/crops"]
-	path = mods/crops
-	url = https://github.com/minetest-mods/crops
 [submodule "mods/cartographer"]
 	path = mods/cartographer
 	url = https://gitlab.com/Df458/cartographer.git
@@ -265,9 +253,6 @@
 [submodule "mods/televator"]
 	path = mods/televator
 	url = https://github.com/NoctisLabs/an_televator.git
-[submodule "mods/smartshop"]
-	path = mods/smartshop
-	url = https://github.com/AiTechEye/smartshop.git
 [submodule "mods/crafting"]
 	path = mods/crafting
 	url = https://github.com/Qwertymine/crafting.git
