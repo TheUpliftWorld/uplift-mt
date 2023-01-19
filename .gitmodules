@@ -343,3 +343,6 @@
 [submodule "mods/metadata_cache"]
 	path = mods/metadata_cache
 	url = https://github.com/minetest-monitoring/metadata_cache.git
+[submodule "mods/smartshop"]
+	path = mods/smartshop
+	url = https://github.com/fluxionary/minetest-smartshop.git
