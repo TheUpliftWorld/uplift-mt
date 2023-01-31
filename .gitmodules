@@ -142,9 +142,6 @@
 [submodule "mods/skinsdb"]
 	path = mods/skinsdb
 	url = https://github.com/minetest-mods/skinsdb
-[submodule "mods/flowerpot"]
-	path = mods/flowerpot
-	url = https://github.com/minetest-mods/flowerpot
 [submodule "mods/nether"]
 	path = mods/nether
 	url = https://github.com/minetest-mods/nether
