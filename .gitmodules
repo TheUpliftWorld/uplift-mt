@@ -343,3 +343,6 @@
 [submodule "mods/smartshop"]
 	path = mods/smartshop
 	url = https://github.com/fluxionary/minetest-smartshop.git
+[submodule "mods/flowerpot"]
+	path = mods/flowerpot
+	url = https://github.com/fluxionary/minetest-flowerpot.git
