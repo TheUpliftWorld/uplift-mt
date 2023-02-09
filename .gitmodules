@@ -175,9 +175,6 @@
 [submodule "mods/connected_chests"]
 	path = mods/connected_chests
 	url = https://github.com/HybridDog/connected_chests
-[submodule "mods/inventorybags"]
-	path = mods/inventorybags
-	url = https://github.com/cx384/inventorybags
 [submodule "mods/sfinv"]
 	path = mods/sfinv
 	url = https://github.com/rubenwardy/sfinv
@@ -232,9 +229,6 @@
 [submodule "mods/qos"]
 	path = mods/qos
 	url = https://github.com/S-S-X/qos
-[submodule "mods/personal_log"]
-	path = mods/personal_log
-	url = https://github.com/minetest-mods/personal_log
 [submodule "mods/fireworkz"]
 	path = mods/fireworkz
 	url = https://github.com/runsy/fireworkz
