@@ -337,3 +337,6 @@
 [submodule "mods/flowerpot"]
 	path = mods/flowerpot
 	url = https://github.com/fluxionary/minetest-flowerpot.git
+[submodule "mods/xban2"]
+	path = mods/xban2
+	url = https://github.com/minetest-mods/xban2
