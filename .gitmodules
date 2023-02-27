@@ -181,9 +181,6 @@
 [submodule "mods/sfinv_bags"]
 	path = mods/sfinv_bags
 	url = https://notabug.org/TenPlus1/sfinv_bags.git
-[submodule "mods/moretrees"]
-	path = mods/moretrees
-	url = https://github.com/mt-mods/moretrees
 [submodule "mods/moreores"]
     path = mods/moreores
     url = https://github.com/minetest-mods/moreores.git
